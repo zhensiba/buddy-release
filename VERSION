@@ -1,4 +1,4 @@
 qdocse-buddy 0.1.0
 author  Frank <zzhikang@gmail.com>
-source  netcaf/buddy @ c570e28
-built   2026-10-02 18:29 EDT with rustc 1.98.1, target x86_64-unknown-linux-musl (static)
+source  netcaf/buddy @ 6713f94
+built   2026-10-02 18:33 EDT with rustc 1.98.1, target x86_64-unknown-linux-musl (static)
